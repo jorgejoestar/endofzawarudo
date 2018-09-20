@@ -1,0 +1,5 @@
+C:\Users\vmadmin\RiderProjects\RandomTest\RandomTest\bin\Debug\RandomTest.exe
+C:\Users\vmadmin\RiderProjects\RandomTest\RandomTest\bin\Debug\RandomTest.pdb
+C:\Users\vmadmin\RiderProjects\RandomTest\RandomTest\obj\Debug\RandomTest.csprojResolveAssemblyReference.cache
+C:\Users\vmadmin\RiderProjects\RandomTest\RandomTest\obj\Debug\RandomTest.exe
+C:\Users\vmadmin\RiderProjects\RandomTest\RandomTest\obj\Debug\RandomTest.pdb
